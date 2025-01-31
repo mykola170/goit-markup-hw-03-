@@ -68,6 +68,8 @@ color: #2e2f42;
     gap: 40px;
 }
 .header-address {
+    display: flex;
+    gap: 40px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
