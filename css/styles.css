@@ -182,7 +182,13 @@ color: #2e2f42;
 
 .footer-section{
     background: #2e2f42;
+    padding: 100px 0;
 }
+.footer-logo {
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
 .logo-footer{
     color: #f4f4fd;
 }
@@ -192,4 +198,5 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+    max-width: 264px;
 }
