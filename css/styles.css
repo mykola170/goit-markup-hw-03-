@@ -63,7 +63,7 @@ color: #2e2f42;
 .header-nav:focus {
     color: #404bbf;
 }
-.address-nav{
+.address-nav {
     display: flex;
     gap: 40px;
 }
